@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, web development, and solving technical challenges.  
 - 🌱 I’m currently learning **Full-Stack Python Development** and **Data Science**.  
 - 💞️ I’m looking to collaborate on open-source projects and innovative web applications.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gaduputimahesh/) | Email: gaduputimahesh@gmail.com  
+- 📫 How to reach me:  | Email: gaduputimahesh@gmail.com  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love exploring new APIs and making mini-projects to enhance my skills!  
 
